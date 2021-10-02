@@ -6,7 +6,7 @@
 #define _MGOS_ARDUINO_IR_REMOTE_H_
 #include <string>
 
-#include "fw/src/mgos_features.h"
+#include "mgos_features.h"
 
 #include "IRrecv.h"
 #include "IRsend.h"
