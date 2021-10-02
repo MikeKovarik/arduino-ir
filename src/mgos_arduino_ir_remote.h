@@ -6,8 +6,6 @@
 #define _MGOS_ARDUINO_IR_REMOTE_H_
 #include <string>
 
-#undef UNIT_TEST
-
 #include "mgos_features.h"
 
 #include "IRrecv.h"
