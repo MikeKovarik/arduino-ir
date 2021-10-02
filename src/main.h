@@ -1,4 +1,4 @@
-#include "fw/src/mgos_init.h"
+#include "mgos_init.h"
 
 #ifndef _MGOS_ARDUINO_IR_H_
 #define _MGOS_ARDUINO_IR_H_
